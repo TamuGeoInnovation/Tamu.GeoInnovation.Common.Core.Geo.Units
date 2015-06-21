@@ -1,5 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Geo.Units.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Geo.Units.pdb
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units\Src\Main\obj\x86\Debug\Tamu.GeoInnovation.Common.Core.Geo.Units.pdb

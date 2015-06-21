@@ -1,4 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll.config
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Geo.Units\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Geo.Units\Src\Main\obj\x86\Release\Common.Core.Geo.Units.csprojResolveAssemblyReference.cache
