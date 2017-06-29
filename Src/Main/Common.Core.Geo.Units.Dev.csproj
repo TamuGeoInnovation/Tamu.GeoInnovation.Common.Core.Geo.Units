@@ -93,10 +93,6 @@
       <HintPath>..\..\..\_RepoConfig\SolutionFiles\packages\Microsoft.SqlServer.Types.11.0.2\lib\net20\Microsoft.SqlServer.Types.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SQLSpatialTools">
-      <HintPath>..\..\..\..\..\..\..\..\DevDependencies\SQLServer\SQLSpatialTools\build\v1.0\bin\AnyCPU\release\SQLSpatialTools.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -176,6 +172,10 @@
     <Content Include="SqlServerTypes\readme.htm" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Common.Core.SqlSpatialTools\Src\Main\Common.Core.SqlSpatialTools.Dev.csproj">
+      <Project>{3288e5f2-1fbc-4ff4-9b17-e5ce8b326b48}</Project>
+      <Name>Common.Core.SqlSpatialTools.Dev</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.Dev.csproj">
       <Project>{0744A732-A7FE-4658-967D-C5A583EF08E4}</Project>
       <Name>Common.Core.Utils.Dev</Name>
