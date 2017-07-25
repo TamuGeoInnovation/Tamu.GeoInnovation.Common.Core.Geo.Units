@@ -181,6 +181,10 @@
       <Name>Common.Core.Utils.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\Surveys.Core\src\Main\Surveys.Core.Dev.csproj">
+      <Project>{ab09b385-9b82-4678-a55c-f9e9d067ea24}</Project>
+      <Name>Surveys.Core.Dev</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  
