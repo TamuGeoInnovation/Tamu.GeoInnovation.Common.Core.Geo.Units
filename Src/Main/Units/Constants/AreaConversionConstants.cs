@@ -5,7 +5,7 @@ namespace USC.GISResearchLab.Common.Geographics.Units
     public class AreaConversionConstants
     {
 
-        
+
 
         // the following are from
         // from http://unit-converter.org/conversion.php?c_id=4&lang=en
@@ -51,7 +51,7 @@ namespace USC.GISResearchLab.Common.Geographics.Units
         public static double SQUARE_KILOMETERS_PER_SQUARE_YARD = double.Parse("8.36127360e-7", GlobalizationConstants.US_CULTURE_INFO);
         public static double SQUARE_METERS_PER_SQUARE_YARD = double.Parse("0.836127360", GlobalizationConstants.US_CULTURE_INFO);
         public static double SQUARE_MILES_PER_SQUARE_YARD = double.Parse("3.22830579e-7", GlobalizationConstants.US_CULTURE_INFO);
-      
+
 
     }
 }

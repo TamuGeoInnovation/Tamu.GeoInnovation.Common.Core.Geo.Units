@@ -24,7 +24,7 @@ namespace USC.GISResearchLab.Common.Geographics.Units
         public const string UNIT_NAME_LINEAR_MILES = "miles";
         public const string UNIT_NAME_LINEAR_YARDS = "yards";
         public const string UNIT_NAME_LINEAR_PIXELS = "pixels";
-        
+
         public const string UNIT_NAME_UNKNOWN = "unknown";
 
         static UnitManager()

@@ -49,7 +49,7 @@ namespace USC.GISResearchLab.Common.Geographics.Units
         public static double KILOMETERS_PER_YARD = double.Parse("0.0009144", GlobalizationConstants.US_CULTURE_INFO);
         public static double METERS_PER_YARD = double.Parse("0.914400000", GlobalizationConstants.US_CULTURE_INFO);
         public static double MILE_PER_YARD = double.Parse("0.000568181818", GlobalizationConstants.US_CULTURE_INFO);
-        
+
 
         public static double METERS_PER_DEGREE_AT_EQUATOR = double.Parse("111319.5", GlobalizationConstants.US_CULTURE_INFO);
         public static double METERS_PER_MINUTE_AT_EQUATOR = double.Parse("1855.325", GlobalizationConstants.US_CULTURE_INFO);
