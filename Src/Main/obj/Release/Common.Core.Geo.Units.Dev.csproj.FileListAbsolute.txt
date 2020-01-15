@@ -8,3 +8,8 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Tamu.
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Common.Core.Geo.Units.Dev.csprojAssemblyReference.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Common.Core.Geo.Units.Dev.csproj.CoreCompileInputs.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Common.Core.Geo.Units.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll.config
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Common.Core.Geo.Units.Dev.csprojAssemblyReference.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Common.Core.Geo.Units.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Geo.Units\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Geo.Units.dll
