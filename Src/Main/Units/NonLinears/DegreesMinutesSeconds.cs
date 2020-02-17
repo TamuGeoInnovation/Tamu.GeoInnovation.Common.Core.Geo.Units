@@ -12,27 +12,11 @@ namespace USC.GISResearchLab.Common.GeographicObjects.Coordinates
     {
 
         #region Properties
-        private int _Degrees;
-        private int _Minutes;
-        private double _Seconds;
 
-        public int Degrees
-        {
-            get { return _Degrees; }
-            set { _Degrees = value; }
-        }
 
-        public int Minutes
-        {
-            get { return _Minutes; }
-            set { _Minutes = value; }
-        }
-
-        public double Seconds
-        {
-            get { return _Seconds; }
-            set { _Seconds = value; }
-        }
+        public int Degrees { get; set; }
+        public int Minutes { get; set; }
+        public double Seconds { get; set; }
 
         #endregion
 
