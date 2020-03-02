@@ -93,13 +93,6 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Data" />
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Management" />
-    <Reference Include="System.Web" />
-    <Reference Include="System.Web.Services" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Units\Linears\Kilometers.cs" />
@@ -149,18 +142,10 @@
     <Content Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Common.Core.SqlSpatialTools\Src\Main\Common.Core.SqlSpatialTools.Dev.csproj">
-      <Project>{3288e5f2-1fbc-4ff4-9b17-e5ce8b326b48}</Project>
-      <Name>Common.Core.SqlSpatialTools.Dev</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\..\Common.Core.Utils\Src\Main\Common.Core.Utils.Dev.csproj">
       <Project>{0744A732-A7FE-4658-967D-C5A583EF08E4}</Project>
       <Name>Common.Core.Utils.Dev</Name>
       <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\Surveys.Core\src\Main\Surveys.Core.Dev.csproj">
-      <Project>{ab09b385-9b82-4678-a55c-f9e9d067ea24}</Project>
-      <Name>Surveys.Core.Dev</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
